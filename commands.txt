@@ -28,3 +28,5 @@ modified - something changed
 ////////////branches////////////
 
 git branch - info about branches 
+git log - info about commits 
+git checkout - change branch 
