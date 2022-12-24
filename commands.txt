@@ -1,0 +1,21 @@
+~ - root
+ls - get items 
+ls -a - get all hidden items 
+cd - change directory
+mkdir <...>- create new directory
+touch <...>- create new file
+rm -rf - remove / delete item 
+
+/////////////////////////////GIT//////////////////////////////
+
+.  -  all units into directory
+
+git init - initialization
+git add <file_name> / .
+
+
+/////////////////////////////STATUS///////////////////////////
+
+untracked file - git doesn't watch at this file 
+added - git becomes to wath at file 
+modified - something changed 
