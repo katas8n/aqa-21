@@ -1,3 +1,5 @@
+doesn't include <> into your code
+
 ~ - root
 ls - get items 
 ls -a - get all hidden items 
@@ -29,4 +31,12 @@ modified - something changed
 
 git branch - info about branches 
 git log - info about commits 
-git checkout - change branch 
+git checkout <branch_name>- change branch 
+git switch <branch_name> - change branch 
+git switch -c   <branch_name> - create + change branch
+git merge - merge
+
+/////////////////////////////GITHUB//////////////////////////////
+git clone <https> - clone remote repo
+git push origin <branch> - push brach into remote repo
+
