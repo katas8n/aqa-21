@@ -2,6 +2,7 @@
 ls - get items 
 ls -a - get all hidden items 
 cd - change directory
+cd .. - step back
 mkdir <...>- create new directory
 touch <...>- create new file
 rm -rf - remove / delete item 
@@ -30,3 +31,5 @@ modified - something changed
 git branch - info about branches 
 git log - info about commits 
 git checkout - change branch 
+git branch <branch's__name> - create new branch
+git merge <branch_name> - merge
