@@ -11,7 +11,11 @@ rm -rf - remove / delete item
 .  -  all units into directory
 
 git init - initialization
-git add <file_name> / .
+
+git add <file_name> - file is tracked
+git add . - all files are tracked 
+
+git commit -m <"msg"> - 
 
 
 /////////////////////////////STATUS///////////////////////////
