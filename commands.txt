@@ -23,3 +23,8 @@ git commit -m <"msg"> -
 untracked file - git doesn't watch at this file 
 added - git becomes to wath at file 
 modified - something changed 
+
+
+////////////branches////////////
+
+git branch - info about branches 
